@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8263404266",
+    "firebase_url": "https://control-de-gastos-4d26f.firebaseio.com",
+    "project_id": "control-de-gastos-4d26f",
+    "storage_bucket": "control-de-gastos-4d26f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8263404266:android:233381383b07f0a95ba593",
+        "android_client_info": {
+          "package_name": "com.example.control_gastos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8263404266-7ecvdidploot1iubi1lmvits54j8jtf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPZbLmqdmzVK8SYsEQ-x3_Ai6owVERs8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8263404266-7ecvdidploot1iubi1lmvits54j8jtf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
