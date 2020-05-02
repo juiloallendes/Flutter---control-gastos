@@ -1,6 +1,10 @@
 # control_gastos
 
-A new Flutter project.
+(Proyecto en desarrollo)
+
+Proyecto de control de gastos - propio
+Diseño por caler edwars
+con arreglos propios, como : color - iconos 
 
 ## Getting Started
 
